@@ -1,0 +1,5 @@
+solved state: y= rsin(alpha) |  x= rcos(alpha) | Theta | y_dot | x_dot | theta_dot |
+
+y_dot= rcos(alpha)*alpha_dot+ sin(alpha)*r_dot
+x_dot= -rsin(alpha)*alpha_dot + cos(alpha)*r_dot
+
