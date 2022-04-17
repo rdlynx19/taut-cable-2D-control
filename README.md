@@ -37,7 +37,9 @@ Under these two assumptions, dynamics of UAV can be formulated as:
 ![](https://i.imgur.com/GX4PoZT.png)
 
 **Trajectory of UAV**
+
 ![](https://i.imgur.com/vNRT51F.png)
 
 **Simulation**
+
 ![](https://i.imgur.com/Gx5SN9A.gif)
